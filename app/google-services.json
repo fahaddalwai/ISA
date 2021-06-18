@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926457315717",
+    "project_id": "unimanager-6341c",
+    "storage_bucket": "unimanager-6341c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926457315717:android:f539f7481c670481f984ec",
+        "android_client_info": {
+          "package_name": "com.example.unimanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926457315717-uijoib40o7de9eih11o5hae09n6ts6mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXUGmnHvR_7sCXOkmf6q6aOLx66lX0XNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926457315717-uijoib40o7de9eih11o5hae09n6ts6mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

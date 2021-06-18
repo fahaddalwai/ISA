@@ -1,0 +1,2 @@
+rootProject.name = "UniManager"
+include ':app'
